@@ -5,7 +5,7 @@
 ## 📜 Summary
 
 The "Smart Irrigation System Using ESP32 & Blynk App" is an IoT-based project for automated irrigation. It utilizes ESP32, soil moisture and water level sensors, DHT22 sensor, relay module, and RGB LED strip. The ESP32 connects to Blynk, enabling remote monitoring of soil conditions. The system activates the water pump based on soil moisture, temperature, and humidity. Automatic mode irrigates the field when moisture is low, while Manual mode allows manual control. The Blynk app displays real-time data on soil moisture, water level, and environmental conditions. The project is ideal for farms, and its video provides a concise overview of its functionality.
-(https://github.com/Circuit-Digest/Smart-Irrigation-System-Using-ESP32-Blynk-App/blob/main/Thumbnail%20Image/IMG_5774.jpg)
+![Smart-Irrigation-System-Using-ESP32-Blynk-App](https://github.com/Circuit-Digest/Smart-Irrigation-System-Using-ESP32-Blynk-App/blob/main/Thumbnail%20Image/IMG_5774.jpg)
 
 ## 🧰 Components
 - ESP32 Board
